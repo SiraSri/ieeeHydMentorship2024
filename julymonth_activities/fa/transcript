@@ -1,0 +1,17 @@
+# vsim -c tb_fa 
+# Start time: 19:28:28 on Jul 11,2024
+# Loading work.tb_fa
+# Loading work.fa
+# @time 0ns a=x b=x c=x sum=x co=x
+# @time 1ns a=0 b=0 c=0 sum=0 co=0
+# @time 2ns a=0 b=0 c=1 sum=1 co=0
+# @time 3ns a=0 b=1 c=0 sum=1 co=0
+# @time 4ns a=0 b=1 c=1 sum=0 co=1
+# @time 5ns a=1 b=0 c=0 sum=1 co=0
+# @time 6ns a=1 b=0 c=1 sum=0 co=1
+# @time 7ns a=1 b=1 c=0 sum=0 co=1
+# @time 8ns a=1 b=1 c=1 sum=1 co=1
+# ** Note: $stop    : ./tb_fa.v(31)
+#    Time: 9 ns  Iteration: 0  Instance: /tb_fa
+# Break in Module tb_fa at ./tb_fa.v line 31
+# Stopped at ./tb_fa.v line 31

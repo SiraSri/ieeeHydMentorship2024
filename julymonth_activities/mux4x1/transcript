@@ -1,0 +1,7 @@
+# vsim -c .\tb_mux4x1.v 
+# Start time: 18:29:59 on Jul 11,2024
+# ** Error (suppressible): (vsim-19) Failed to access library '' at "".
+# Invalid argument. (errno = EINVAL)
+# Error loading design
+# End time: 18:30:00 on Jul 11,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
