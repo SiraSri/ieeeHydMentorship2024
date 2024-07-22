@@ -1,0 +1,8 @@
+# vsim -c tb_hab 
+# Start time: 18:18:02 on Jul 20,2024
+# ** Error: (vsim-3170) Could not find 'tb_hab'.
+#         Searched libraries:
+#             C:/Users/srini/Desktop/ieee/julymonth_activities/habehav/work
+# Error loading design
+# End time: 18:18:03 on Jul 20,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
